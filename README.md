@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Burhan 👋
 
-<!--
-**buildwithburhan/buildwithburhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently learning Artificial Intelligence, Python and n8n Automation.
 
-Here are some ideas to get you started:
+I'm passionate about building real-world AI Automation projects and documenting my learning journey here on GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Artificial Intelligence
+- Python
+- n8n Automation
+- Git & GitHub
+
+## 🎯 Goal
+
+To become an AI Automation Developer by building real-world projects.
+
+Thanks for visiting my profile! 🚀
